@@ -19,8 +19,6 @@ The Project Has Been Finished And Had Ended.
 
 ## 📌Project Images
 
-https://raw.githubusercontent.com/aryan-garg-08/Pics/main/ss1.png
-
 ![Imagepic](https://raw.githubusercontent.com/aryan-garg-08/Pics/main/ss1.png)
 
 ![Imagepic](https://raw.githubusercontent.com/aryan-garg-08/Pics/main/ss2.png)
