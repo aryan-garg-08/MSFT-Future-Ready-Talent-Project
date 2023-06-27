@@ -4,7 +4,7 @@
 Introducing our groundbreaking web application that brings together two essential elements for a fulfilling and balanced life. With our innovative platform, developers and designers can effortlessly create stunning box and drop shadows, enhancing their applications with style and visual appeal. Simultaneously, our integrated health companion provides personalized guidance, support, and tailored recommendations for fitness, nutrition, and overall well-being. By harnessing the power of AI, we empower users to achieve a healthier, happier life through easy access to expert assistance. Say hello to a tool that combines creativity and wellness, revolutionizing the way you design and care for yourself. Welcome to our transformative web application.
 
 ## 📌What Is Tech Stack Used?
-It Makes Use Of React JS, HTML, CSS, JavaScript And Microsoft Azure.
+It Makes Use Of React JS, HTML, CSS, JavaScript And Microsoft Azure (Cloud Service for Hosting and Health Chat Bot).
 
 ## 📌Outcomes Of Project:
 The project brings enhanced aesthetics and design quality to developers/designers with effortless creation of visually striking box and drop shadows. Users benefit from improved well-being through personalized guidance, support, and tailored recommendations for fitness, nutrition, and wellness. It empowers individuals to make informed decisions, leading to a healthier, happier life. Transforming creative and personal spheres through a dual focus on design and wellness.
