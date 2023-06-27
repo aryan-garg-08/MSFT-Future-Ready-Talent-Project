@@ -1,0 +1,160 @@
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@500&family=Montserrat:wght@300;700&family=Quicksand:wght@500;600&family=Raleway:wght@300&family=Tiro+Bangla&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+div.container {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+div.container div.head {
+  width: 100%;
+  height: 100px;
+  display: flex;
+  background-color: #0a6ebd;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+div.container div.head h3 {
+  color: white;
+  font-size: 2.5rem;
+  font-family: "Cinzel", sans-serif;
+}
+
+div.container div.head h3 a {
+  color: rgb(246, 7, 107);
+  font-size: 2.5rem;
+  text-decoration: none;
+  transition: all 0.4s ease-in-out;
+  font-family: "Cinzel", sans-serif;
+}
+
+div.container div.head h3 a:hover {
+  color: rgb(0, 221, 255);
+  font-size: 2.5rem;
+  font-family: "Cinzel", sans-serif;
+}
+
+div.container div.desc {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  background-color: #5a96e3;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+div.container div.desc button {
+  display: flex;
+  flex-direction: row;
+  font-weight: 700;
+  align-items: center;
+  justify-content: center;
+  color: #213363;
+  font-weight: bold;
+  margin: 5px 0;
+  font-size: 1rem;
+  font-family: "Montserrat", sans-serif;
+  outline: none !important;
+  padding: 8px 25px;
+  cursor: pointer;
+  border: 0;
+  transition: all 0.4s ease-in-out;
+  border-radius: 30px !important;
+  border: 2px solid #213363;
+}
+
+div.container div.desc button#close {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  color: red;
+  font-weight: bold;
+  margin: 5px 0;
+  font-size: 1rem;
+  font-family: "Montserrat", sans-serif;
+  outline: none !important;
+  padding: 8px 25px;
+  cursor: pointer;
+  border: 0;
+  transition: all 0.4s ease-in-out;
+  border-radius: 30px !important;
+  border: 2px solid red;
+}
+
+div.container div.desc button:hover {
+  color: white;
+  background-color: #213363;
+  font-weight: bold;
+  outline: none !important;
+  border: 0;
+  border: 2px solid white;
+}
+
+div.container div.desc button#close:hover {
+  color: white;
+  background-color: red;
+  font-weight: bold;
+  outline: none !important;
+  border: 0;
+  border: 2px solid white;
+}
+
+div.container div.desc p {
+  color: white;
+  font-size: 1.2rem;
+  text-align: center;
+  margin: 10px 200px;
+  font-family: "Montserrat", sans-serif;
+}
+
+div.container div.bot {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  background-color: #213363;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+div.container div.bot iframe {
+  border: 2px solid red;
+  background-color: azure;
+  outline: none !important;
+}
+
+div.container div.foot {
+  width: 100%;
+  height: 100px;
+  display: flex;
+  background-color: #a1c2f1;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+div.container div.foot p {
+  color: #213363;
+  font-weight: bold;
+  text-align: center;
+  font-size: 1rem;
+  font-family: "Raleway", sans-serif;
+}
