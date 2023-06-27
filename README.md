@@ -15,7 +15,7 @@ Our vision is to create a transformative web application that seamlessly integra
 ## 📌Deployed URL
 The Project Has Been Finished And Had Ended.
 
-[Website Hosted Link](https://lively-hill-07d8a5a00.3.azurestaticapps.net/)
+[Website Hosted Link](https://happy-sky-0f0857800.3.azurestaticapps.net/)
 
 ## 📌Project Images
 
